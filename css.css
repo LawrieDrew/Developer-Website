@@ -1,0 +1,37 @@
+
+:root {
+background-color: #a9a9a9;
+color:#ffff00;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+}
+
+header {
+margin-top: 10%;
+margin-bottom: 10%;
+width: 100%;
+text-align: center;
+}
+
+#profile img {
+    border-radius: 50%;
+    width: 50%;
+    align: center;
+}
+
+#work img {
+    text-align: center;
+     width: 25%;
+}
+
+#social ul{
+    text-align: center;
+    width: 100%;
+}
+
+footer  {
+    padding: 30px;
+    clear: both;
+    text-align: center;
+
+}
