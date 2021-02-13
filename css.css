@@ -13,10 +13,21 @@ width: 100%;
 text-align: center;
 }
 
+
 #profile img {
+    border: 5px solid #4682B4;
     border-radius: 50%;
     width: 50%;
     align: center;
+
+}
+
+.profile image p {
+
+  shape-outside: circle(50%);
+  width: 300px;
+  height: 300px;
+  float: left; 
 }
 
 #work img {
@@ -33,5 +44,51 @@ footer  {
     padding: 30px;
     clear: both;
     text-align: center;
+
+}
+
+.first-work {
+    display: flex;
+    width: 100%;
+}
+
+.first-work img {
+    width: 33%;
+    flex-shrink: 0%;
+    background: #4682B4;
+    padding: 1rem;
+    margin: 2px;
+
+}
+
+.resume {
+    display: flex;
+    width: 100%;
+
+}
+
+.resume img {
+    width: 33%;
+    flex-shrink: 0%;
+    background: #4682B4;
+    padding: 1rem;
+    margin: 2px;
+
+}
+
+.bottom-nav {
+    display: flex;
+    width: 100%;
+
+}
+
+.bottom-nav ul {
+
+    width: 33%;
+    flex-shrink: 0%;
+    background: #4682B4;
+    padding: 1rem;
+    margin: 2px;
+
 
 }
