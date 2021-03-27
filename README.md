@@ -21,7 +21,7 @@ Here is a final snapshot of the homescreen before deployment, adjusted to a very
 
 Here is the deployed website URL:
 
-[portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+[portfolio demo](https://lawriedrew.github.io/Developer-Website/)
 
 [Github URL](https://github.com/LawrieDrew/Developer-Website.git) 
 
