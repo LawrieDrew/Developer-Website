@@ -17,7 +17,7 @@ My favotie aspect of this portfolio is that it's also highly responsive. Blow it
 
 Here is a final snapshot of the homescreen before deployment, adjusted to a very skinny window to demonstrate the responsiveness of the code:
 
-[homepage main](images/Screenshot1.jpg) 
+![homepage main](images/Screenshot1.jpg) 
 
 Here is the deployed website URL:
 
